@@ -3,8 +3,7 @@
 
 ## Author(s)
 
-Ziyan Liao liaozy@cib.ac.cn
-Nannan Zhang zhangnn@cib.ac.cn
+Ziyan Liao liaozy@cib.ac.cn & Nannan Zhang zhangnn@cib.ac.cn
 
 Chengdu Institute of Biology, Chinese Academy of Sciences, Chengdu 610041, People’s Republic of China
 
