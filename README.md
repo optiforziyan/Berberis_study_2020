@@ -14,4 +14,4 @@ Chengdu Institute of Biology, Chinese Academy of Sciences, Chengdu 610041, Peopl
 
 ## Citation
 
-Zhang N.<sup>#, Liao Z.<sup>#, Wu, S., Nobis M.P., Wang J., Wu N. Climate change impact on wheat security through alternate host of stripe rust. Food and Energy Security. Major Revision.
+Zhang N.#, Liao Z.#, Wu, S., Nobis M.P., Wang J., Wu N. Climate change impact on wheat security through alternate host of stripe rust. Food and Energy Security. Major Revision.
