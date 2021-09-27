@@ -7,10 +7,11 @@ Predicted current and projected future distributions by the ensemble of small mo
 
 ## Author(s)
 
-Ziyan Liao liaozy@cib.ac.cn & Nannan Zhang zhangnn@cib.ac.cn
+Ziyan Liao optiforziyan@gmail.com
 
 Chengdu Institute of Biology, Chinese Academy of Sciences, Chengdu 610041, People’s Republic of China
 
 
 ## Citation
 
+Zhang N.#, Liao Z.#, Wu, S., Nobis M.P., Wang J., Wu N. Climate change impact on wheat security through alternate host of stripe rust. Food and Energy Security. Major Revision.
